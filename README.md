@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nami Kim
 
-💻 **Aspiring Data Engineer | AI & MLOps Enthusiast**  
+💻 **Aspiring Data Engineer | AI & MLOps Explorer**  
 
 🎓 CS Master's | MA Finance | BA Economics  
 🌏 Based in Korea | Open to remote roles globally!  
@@ -44,6 +44,7 @@
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/namixkim)
-- [Portfolio Website](https://namikimlab.github.io/)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio Repo](https://github.com/namikimlab)
+- [Blog](https://en.namixkim.com/)
 - Always up for a chat about **data**, **AI**, or **fintech trends**! ☕
