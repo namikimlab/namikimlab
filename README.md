@@ -18,6 +18,7 @@ I love building real-world solutions with data and technology.
 - [LinkedIn](https://linkedin.com/in/your-profile): professional background, resume
 - [Portfolio Repo](https://github.com/namikimlab): code
 - [Blog](https://en.namixkim.com/): how I came to make what, what I learned
+- 💌 namixkim [at] gmail [dot] com
 - Always up for a chat about data, AI, or even coffee ☕
 
 ## 🛠️ Tech Stack
