@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nami Kim
 
-💻 **Data Engineer, AI & ML Explorer**  
+> 💻 **Data Engineer, AI & ML Explorer**  
 
 🎓 CS Master's | MA Finance | BA Economics  
 🌏 Based in Korea | Open to remote roles globally!  
@@ -8,19 +8,19 @@
 🔨 **BUILD ANYTHING**  
 I love building real-world solutions with data and technology.
 
-### 🚀 About Me
+## 🚀 About Me
 - 🧩 5+ years in finance (CPA), now solving real-world problems with data
-- 💡 Interested in **Fintech**, **Data**, and **AI infrastructure**
+- 💡 Interested in **Fintech**, **Data**, and **AI infrastructure
 - 🔬 Continuously learning and building with **Data, AI, ML**
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 - [GitHub Pages](https://namixkim.github.io/): portfolio & featured projects
 - [LinkedIn](https://linkedin.com/in/your-profile): professional background, resume
 - [Portfolio Repo](https://github.com/namikimlab): code
 - [Blog](https://en.namixkim.com/): how I came to make what, what I learned
 - Always up for a chat about data, AI, or even coffee ☕
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend / Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,6 +52,4 @@ I love building real-world solutions with data and technology.
 
 ![Nami's GitHub stats](https://github-readme-stats.vercel.app/api?username=namikimlab&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namikimlab&layout=compact&theme=radical)
-
----
 
