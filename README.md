@@ -15,7 +15,7 @@ I love building real-world solutions with data and technology.
 
 ## 🔗 Connect with Me
 - [GitHub Pages](https://namixkim.github.io/): portfolio & featured projects
-- [LinkedIn](https://linkedin.com/in/your-profile): professional background, resume
+- [LinkedIn](https://linkedin.com/in/namixkim): professional background, resume
 - [Portfolio Repo](https://github.com/namikimlab): code
 - [Blog](https://en.namixkim.com/): behind the builds — lessons learned & thought process
 - 💌 Reach me: namixkim [at] gmail [dot] com
