@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Nami Kim
+# 👋 Hi there! I'm Nami
 
 > 💻 **Data Engineer, AI & ML Explorer**  
 
 🎓 CS Master's | MA Finance | BA Economics  
 🌏 Based in Korea | Open to remote roles globally!  
 
-🔨 **BUILD ANYTHING**  
+🔨 **BUILD ANYTHING!**  
 I love building real-world solutions with data and technology.
 
 ## 🚀 About Me
