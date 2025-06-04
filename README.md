@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nami
 
-> 💻 **Data Engineer, AI & ML Explorer**  
+> 💻 **Data Engineer 🧡 AI & ML**  
 
 🎓 CS Master's | MA Finance | BA Economics  
 🌏 Location flexible | Open to remote roles globally!  
