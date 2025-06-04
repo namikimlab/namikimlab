@@ -3,41 +3,67 @@
 > 💻 **Data Engineer, AI & ML Explorer**  
 
 🎓 CS Master's | MA Finance | BA Economics  
-🌏 Based in Korea | Open to remote roles globally!  
+🌏 Location flexible | Open to remote roles globally!  
 
 🔨 **BUILD ANYTHING!**  
 I love building real-world solutions with data and technology.
 
 ## 🚀 About Me
 - 🧩 5+ years in finance (CPA), now solving real-world problems with data
-- 💡 Interested in **Fintech**, **Data**, and **AI infrastructure
+- 💡 Interested in **Fintech**, **Data**, and **AI infrastructure**
 - 🔬 Continuously learning and building with **Data, AI, ML**
 
 ## 🔗 Connect with Me
-- [GitHub Pages](https://namixkim.github.io/): portfolio & featured projects
+- [Portfolio](https://namixkim.github.io/): featured projects
 - [LinkedIn](https://linkedin.com/in/namixkim): professional background, resume
-- [Portfolio Repo](https://github.com/namikimlab): code
 - [Blog](https://en.namixkim.com/): behind the builds — lessons learned & thought process
+- [Github Repo](https://github.com/namikimlab): code
+
 - 💌 Reach me: namixkim [at] gmail [dot] com
 - Always up for a chat about data, AI, or even coffee ☕
 
 ## 🛠️ Tech Stack
 
-### Backend / Data Engineering
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Data Engineering & Orchestration
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-F9A03C?style=flat&logo=dbt&logoColor=white)
+![Kestra](https://img.shields.io/badge/Kestra-5B43D6?style=flat&logoColor=white)
+
+### Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-000000?style=flat&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 
-### DevOps / Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
