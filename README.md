@@ -22,6 +22,9 @@ I love building real-world solutions with data and technology.
 - 💌 Reach me: namixkim [at] gmail [dot] com
 - Always up for a chat about data, AI, or even coffee ☕
 
+## 🔰 Certifications & Licenses
+- U.S. Certified Public Accountant (CPA)
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
