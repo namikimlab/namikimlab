@@ -24,12 +24,13 @@ I love building real-world solutions with data and technology.
 
 ## 🔰 Certifications & Licenses
 
-### AWS Certifications
-[![AWS Certified Solutions Architect Associate](https://images.credly.com/images/0e284c3f-516a-4c21-b866-b1fbc9314069/certified_button1.png)](https://www.credly.com/badges/f91b47ad-a20f-4460-ab0a-343c48d6c23c/public_url)
+**AWS Certified Solutions Architect Associate**  
+[<img src="./assets/badges/aws-certified-solutions-architect-associate.png" width="120" alt="AWS Certified Solutions Architect Associate">](https://www.credly.com/badges/f91b47ad-a20f-4460-ab0a-343c48d6c23c/public_url)
 
-[![AWS Certified Data Engineering Associate](https://images.credly.com/images/0e284c3f-516a-4c21-b866-b1fbc9314069/certified_button1.png)](https://www.credly.com/badges/eea63177-e123-4765-a53d-33c2b582dc94/public_url)
+**AWS Certified Data Engineer Associate**  
+[<img src="./assets/badges/aws-certified-data-engineer-associate.png" width="120" alt="AWS Certified Data Engineer Associate">](https://www.credly.com/badges/eea63177-e123-4765-a53d-33c2b582dc94/public_url)
 
-U.S. Certified Public Accountant (CPA)
+**U.S. Certified Public Accountant (CPA)**
 
 ## 🛠️ Tech Stack
 
