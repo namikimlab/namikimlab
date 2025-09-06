@@ -23,7 +23,11 @@ I love building real-world solutions with data and technology.
 - Always up for a chat about data, AI, or even coffee ☕
 
 ## 🔰 Certifications & Licenses
-- U.S. Certified Public Accountant (CPA)
+
+![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS Certified Data Engineering Associate](https://img.shields.io/badge/AWS%20Certified-Data%20Engineering%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+U.S. Certified Public Accountant (CPA)
 
 ## 🛠️ Tech Stack
 
